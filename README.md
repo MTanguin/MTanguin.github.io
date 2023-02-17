@@ -48,7 +48,12 @@ Your visualization should look something like the preceding map.
 
 RESULT
 
+
+<img width="1918" alt="LeafletMapData" src="https://user-images.githubusercontent.com/114210481/219549850-04c6bb42-e8ae-41c6-9a43-7df0fb415649.png">
+
 ![Alt text](../result/LeafletMapData.png)
+
+
 
 
 Sources:
